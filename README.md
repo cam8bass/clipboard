@@ -14,3 +14,5 @@ Dans le dossier maquettes, vous trouverez en version png les maquettes mob et de
 Le fichier "note-clipboard " contient l'ensemble des notes pour la réalisation des maquettes.
 Le dossier personas contient deux fiches personas.
 Le dossier wireframes contient les wireframes mob et desktop.
+
+## Lien vers Trello: https://trello.com/invite/b/RABdulJV/362ede577ae041a0ebc6a6b909ee7e3d/clipboard
